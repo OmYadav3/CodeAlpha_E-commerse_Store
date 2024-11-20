@@ -1,0 +1,18 @@
+{
+  "name": "codealpha_e-commerse_store",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "nodemon src/index.js",
+  "scripts": {
+    "dev": "index.js"
+  },
+  "keywords": [
+    "e-commerse-store"
+  ],
+  "author": "Om Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
